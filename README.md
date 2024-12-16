@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Web & Mobile Applications**
 - 🌱 I’m currently learning **Next.js & Prisma ORM**
 - 💬 Ask me about **Laravel, React, Next.js, Prisma, and MySQL/PostgreSQL**
-- 📫 How to reach me: **[agustinusputra94@gmail.com]**
+- 📫 How to reach me: **agustinusputra94@gmail.com**
 - ⚡ Fun fact: I love solving challenging problems and building cool applications.
 
 ---
