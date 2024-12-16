@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 **About Me**
-- 🔭 I’m currently working on **Web**
+
 - 🌱 I’m currently learning **Next.js, Prisma ORM  & Mobile Applications**
 - 💬 Ask me about **Laravel, React, Next.js, Prisma, and MySQL/PostgreSQL**
 - 📫 How to reach me: **agustinusputra94@gmail.com**
