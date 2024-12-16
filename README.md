@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Full Stack Developer from [indonesian]</h3>
+<h1 align="center">Hi 👋, I'm Agustinus Putra Pamungkas</h1>
+<h3 align="center">A passionate Full Stack Developer from indonesian</h3>
 
 ---
 
 ### 🌟 **About Me**
-- 🔭 I’m currently working on **Web & Mobile Applications**
-- 🌱 I’m currently learning **Next.js & Prisma ORM**
+- 🔭 I’m currently working on **Web**
+- 🌱 I’m currently learning **Next.js, Prisma ORM  & Mobile Applications**
 - 💬 Ask me about **Laravel, React, Next.js, Prisma, and MySQL/PostgreSQL**
 - 📫 How to reach me: **agustinusputra94@gmail.com**
 - ⚡ Fun fact: I love solving challenging problems and building cool applications.
