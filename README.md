@@ -5,10 +5,8 @@
 
 ### 🌟 **About Me**
 
-- 🌱 I’m currently learning **Next.js, Prisma ORM  & Mobile Applications**
-- 💬 Ask me about **Laravel, React, Next.js, Prisma, and MySQL/PostgreSQL**
+- 🌱 I’m currently learning **NestJS, MongoDB & Mobile Applications**
 - 📫 How to reach me: **agustinusputra94@gmail.com**
-- ⚡ Fun fact: I love solving challenging problems and building cool applications.
 
 ---
 
